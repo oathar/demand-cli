@@ -45,6 +45,7 @@ We expect all contributors to follow our Code of Conduct. Please ensure you are 
 2. **Clone the Repository:**
 ```sh
 git clone https://github.com/demand-open-source/demand-cli.git
+
 cd demand-cli
 ```
 
